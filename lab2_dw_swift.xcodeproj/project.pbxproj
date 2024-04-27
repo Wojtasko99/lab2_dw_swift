@@ -14,6 +14,7 @@
 		3F0C369B2BDD250B00837E07 /* lab2_dw_swiftTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F0C369A2BDD250B00837E07 /* lab2_dw_swiftTests.swift */; };
 		3F0C36A52BDD250B00837E07 /* lab2_dw_swiftUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F0C36A42BDD250B00837E07 /* lab2_dw_swiftUITests.swift */; };
 		3F0C36A72BDD250B00837E07 /* lab2_dw_swiftUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F0C36A62BDD250B00837E07 /* lab2_dw_swiftUITestsLaunchTests.swift */; };
+		3F0C36B62BDD2A6100837E07 /* Card.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F0C36B52BDD2A6100837E07 /* Card.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		3F0C36A02BDD250B00837E07 /* lab2_dw_swiftUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = lab2_dw_swiftUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3F0C36A42BDD250B00837E07 /* lab2_dw_swiftUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = lab2_dw_swiftUITests.swift; sourceTree = "<group>"; };
 		3F0C36A62BDD250B00837E07 /* lab2_dw_swiftUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = lab2_dw_swiftUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		3F0C36B52BDD2A6100837E07 /* Card.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Card.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 			children = (
 				3F0C36892BDD250B00837E07 /* lab2_dw_swiftApp.swift */,
 				3F0C368B2BDD250B00837E07 /* ContentView.swift */,
+				3F0C36B52BDD2A6100837E07 /* Card.swift */,
 				3F0C368D2BDD250B00837E07 /* Assets.xcassets */,
 				3F0C368F2BDD250B00837E07 /* Preview Content */,
 			);
@@ -258,6 +261,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3F0C368C2BDD250B00837E07 /* ContentView.swift in Sources */,
+				3F0C36B62BDD2A6100837E07 /* Card.swift in Sources */,
 				3F0C368A2BDD250B00837E07 /* lab2_dw_swiftApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
